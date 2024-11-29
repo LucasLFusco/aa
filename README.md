@@ -16,7 +16,7 @@
 
 ## Descrição do Projeto
 
-Este projeto consiste em um sistema de cardápio de um restaurante simples com cadastro e login de usuários, implementado em PHP. O sistema salva os dados de login utilizando cookies e sessões. A interface do usuário possui um formulário para login, com validação de senha e possibilidade de redirecionamento para a tela de cadastro. O layout inclui um vídeo de fundo e design responsivo.
+Este projeto consiste em um sistema de receitas simples com cadastro e login de usuários, implementado em PHP. O sistema salva os dados de login utilizando cookies e sessões. A interface do usuário possui um formulário para login, com validação de senha e possibilidade de redirecionamento para a tela de cadastro. O layout inclui um vídeo de fundo e design responsivo.
 
 ## Funcionalidades
 
